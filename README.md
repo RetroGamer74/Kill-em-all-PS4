@@ -33,3 +33,7 @@ That's all.
 
 I will put here images to explain it better in a few.
 
+## Download
+
+You can download it from [Releases.](https://github.com/RetroGamer74/Kill-em-all-PS4/releases)
+
