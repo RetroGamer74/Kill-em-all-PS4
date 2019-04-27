@@ -16,7 +16,7 @@ Kill'em All is a game with a very extensive GUI. So the best option for PS4 to m
 
 4.- Finally press the touchpad. It is the click simulation.
 
-So, move your finger on to the button, remove your finger a bit, then press touchpad.
+So, move cursor over the button dragging with your finger, remove your finger a bit when you are over, then press touchpad.
 
 #### In the gameplay
 
