@@ -1,5 +1,5 @@
-# Kill-em-all-PS4
-Kill'em All PS4 Version
+# Kill'em All (PS4)
+
 ![Killemall](screenshot.jpg)
 ## Very important!!
 
