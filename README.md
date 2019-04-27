@@ -1,6 +1,6 @@
 # Kill-em-all-PS4
 Kill'em All PS4 Version
-
+![Killemall](screenshot.jpg)
 ## Very important!!
 
 ### How to control it?
