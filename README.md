@@ -23,10 +23,13 @@ So, move cursor over the button dragging with your finger, remove your finger a 
 For the gameplay you will use the Right Stick to look around and AIM.
 
 L1 for doing ZOOM, and quit ZOOM.
+
 R1 for shooting.
 
 DPad.
+
 Left => Change to the left cover.
+
 Right => Change to the right cover.
 
 That's all.
