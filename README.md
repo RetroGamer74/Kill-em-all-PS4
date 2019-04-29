@@ -31,7 +31,7 @@ Right => Change to the right cover.
 
 That's all.
 
-I will put here images to explain it better in a few.
+![layout PS4](layout-ps4.jpg)
 
 ## Download
 
